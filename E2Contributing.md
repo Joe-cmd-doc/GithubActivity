@@ -12,5 +12,10 @@ I opened Git Extensions and clicked on 'Clone repository'. I entered the URL of 
 
 To include screenshots in my Markdown file, I first had to upload the images to an image server or to my own GitHub repository. Then, I was able to reference them in my Markdown file in the following way:
 
-![Alt text](image.png)
 ![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+## History 
+
+![Alt text](image.png)
